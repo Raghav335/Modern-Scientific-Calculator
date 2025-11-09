@@ -22,3 +22,10 @@ This is a **BCA student project** showcasing both **basic arithmetic** and **sci
 1. Clone this repository:
    ```bash
    git clone https://github.com/Raghav335/Modern-Scientific-Calculator.git
+
+
+
+👨‍💻 Author
+Raghav Gupta
+🎓 BCA Student | 💻 Web Developer
+🌐 GitHub : 
