@@ -27,5 +27,6 @@ This is a **BCA student project** showcasing both **basic arithmetic** and **sci
 
 👨‍💻 Author
 Raghav Gupta
-🎓 BCA Student | 💻 Web Developer
-🌐 GitHub : 
+🎓 BCA Student |
+ 💻 Web Developer
+🌐 GitHub :https://github.com/Raghav335/Modern-Scientific-Calculator
